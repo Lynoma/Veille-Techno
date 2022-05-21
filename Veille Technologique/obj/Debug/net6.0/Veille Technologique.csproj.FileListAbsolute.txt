@@ -1,0 +1,77 @@
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\appsettings.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.staticwebassets.runtime.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.exe
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.deps.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.runtimeconfig.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.pdb
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.csproj.AssemblyReference.cache
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.AssemblyInfoInputs.cache
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.AssemblyInfo.cs
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.csproj.CoreCompileInputs.cache
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.RazorAssemblyInfo.cache
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.RazorAssemblyInfo.cs
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\scopedcss\bundle\Veille Technologique.styles.css
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\scopedcss\projectbundle\Veille Technologique.bundle.scp.css
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\refint\Veille Technologique.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.pdb
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.genruntimeconfig.cache
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\ref\Veille Technologique.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.csproj.CopyComplete
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Humanizer.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\geara\source\repos\Veille Technologique\Veille Technologique\bin\Debug\net6.0\HtmlAgilityPack.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\appsettings.Development.json
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\appsettings.json
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.staticwebassets.runtime.json
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.exe
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.deps.json
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.runtimeconfig.json
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\ref\Veille Technologique.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Veille Technologique.pdb
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\HtmlAgilityPack.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Humanizer.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\MySqlConnector.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.csproj.AssemblyReference.cache
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.AssemblyInfoInputs.cache
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.AssemblyInfo.cs
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.csproj.CoreCompileInputs.cache
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.MvcApplicationPartsAssemblyInfo.cache
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.RazorAssemblyInfo.cache
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.RazorAssemblyInfo.cs
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\scopedcss\bundle\Veille Technologique.styles.css
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\scopedcss\projectbundle\Veille Technologique.bundle.scp.css
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.csproj.CopyComplete
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\ref\Veille Technologique.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.pdb
+F:\Projets C#\Veille Technologique\Veille Technologique\obj\Debug\net6.0\Veille Technologique.genruntimeconfig.cache
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projets C#\Veille Technologique\Veille Technologique\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

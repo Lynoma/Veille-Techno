@@ -1,0 +1,45 @@
+﻿@page
+@model Veille_Technologique.Pages.SavedModel
+@{
+	ViewData["Title"] = "Sauvegardé";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="d-flex flex-column mb-3">
+	<form method="post" asp-page-handler="Search">
+		<input type="text" placeholder="search" aria-label="search" name="search"/> 
+		<button class="btn btn-secondary">
+			🔎
+		</button>
+	</form>
+</div>
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Titre</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var article in Model.Saved)
+		{
+			<tr>
+				<td>@article.Id</td>
+				<td>@article.Title</td>
+				<td class="d-flex flex-row justify-content-around">
+
+					<a href="@article.Url" target="_blank" class="btn btn-primary">
+						Open link
+					</a>
+
+					<form method="post" asp-page-handler="Discard" asp-route-id="@article.Id">
+						<button class="btn btn-danger">Discard</button>
+					</form>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

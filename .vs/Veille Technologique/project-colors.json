@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f65d918b-9df2-4b7a-be0e-0674cf4e0f2e": {
+      "ProjectGuid": "f65d918b-9df2-4b7a-be0e-0674cf4e0f2e",
+      "DisplayName": "Veille Technologique",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

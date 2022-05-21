@@ -1,0 +1,69 @@
+﻿@page
+@model Veille_Technologique.Pages.ArticlesModel
+@{
+	ViewData["Title"] = "Page Articles";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="d-flex flex-column align-items-end mb-3">
+	<form method="post" asp-page-handler="Fetch">
+		<button class="btn btn-info">
+			Fetch Data
+		</button>
+	</form>
+</div>
+
+<div class="d-flex flex-column mb-3">
+	<form method="post" asp-page-handler="Search">
+		<input type="text" placeholder="search" aria-label="search" name="search"/> 
+		<button class="btn btn-secondary">
+			🔎
+		</button>
+	</form>
+</div>
+
+@if (Model.Message != null){
+
+	<style>
+		.background-success{
+			background-color: rgba(92,184,92, 0.3) !important;
+		}
+	</style>
+	<div class="container">
+		<p class="background-success">@Model.Message</p>
+	</div>
+}
+
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Titre</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var article in Model.Articles)
+		{
+			<tr>
+				<td>@article.Id</td>
+				<td>@article.Title</td>
+				<td class="d-flex flex-row justify-content-around">
+					<a href="@article.Url" target="_blank" class="btn btn-primary">
+						Open link
+					</a>
+
+					<form method="post" asp-page-handler="Save" asp-route-id="@article.Id">
+						<button class="btn btn-warning">Save</button>
+					</form>
+
+					<form method="post" asp-page-handler="Discard" asp-route-id="@article.Id">
+						<button class="btn btn-danger">Discard</button>
+					</form>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
